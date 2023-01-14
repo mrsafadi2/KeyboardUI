@@ -34,7 +34,7 @@ Usage
 
 Installation
 
-You can add KeyboardHost to an Xcode project by adding it as a package dependency.
+You can add KeyboardManager to an Xcode project by adding it as a package dependency.
 
     From the File menu, select Swift Packages › Add Package Dependency…
     Enter https://github.com/mrsafadi2/KeyboardManager into the package repository URL text field
