@@ -23,7 +23,7 @@ Usage
     var body: some View {
         VStack {
             Spacer()
-            KeyboardHost {
+            KeyboardManager {
                 TextField("please enter text", text: $text)
                     .frame(width: 200, height: 40, alignment: .center)
                     .padding(.bottom, 20)
